@@ -30,6 +30,7 @@ The following models from Hugging Face were selected to meet the multilingual an
 
 English TTS Model
 Arabic TTS Model
+
 These models were chosen based on their high-quality audio generation capabilities and support for both English and Arabic.
 
 ## Justification for Model and Pipeline Choices
@@ -49,11 +50,13 @@ Accurate Arabic Pronunciation: The Arabic model was selected for its proficiency
 Handling Right-to-Left (RTL) Text: As Arabic is written from right to left, special attention was given to ensure that the Gradio interface handles RTL input properly, providing an intuitive experience for Arabic-speaking users.
 
 ## Hugging Face Space Deployment
+
 The project is available for public use via Hugging Face Spaces. Users can access the text-to-speech functionality directly online, without the need for any local setup.
 
 ## Hugging Face Space Link: 
 
-Hugging Face Space
+(https://huggingface.co/spaces/Wajd915/FinalProject)
+
 Simply visit the above link, input your text, select your language and voice options, and receive the corresponding audio output.
 
 ## Conclusion
