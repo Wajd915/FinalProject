@@ -28,8 +28,7 @@ Audio Output: The app generates the corresponding audio, which the user can list
 
 The following models from Hugging Face were selected to meet the multilingual and voice customization requirements:
 
-English TTS Model
-Arabic TTS Model
+English TTS Model and Arabic TTS Model
 
 These models were chosen based on their high-quality audio generation capabilities and support for both English and Arabic.
 
